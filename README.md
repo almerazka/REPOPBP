@@ -4,4 +4,4 @@ NPM : 2306241745
 
 Kelas : PBP C
 
-Hobi : Berenang
+Hobi : Berenang dan Mendengarkan musik
